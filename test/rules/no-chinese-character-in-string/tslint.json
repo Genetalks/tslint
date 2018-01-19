@@ -1,0 +1,5 @@
+{
+  "rules": {
+    "no-chinese-character-in-string": true
+  }
+}

@@ -44,7 +44,7 @@
     ],
 
     "interface-name": false,
-    "file-header": [true,
+    "file-header": [false,
       "Copyright \\d{4} Palantir Technologies, Inc."
     ],
     "max-classes-per-file": false,
